@@ -35,7 +35,7 @@ vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-compton.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-crt.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-dnsmasq.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-dunst.git &
-vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-git.git &
+vcsh clone https://bonegames@github.com/bonegames/dotfiles-git.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-gtk.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-i3.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-jobber.git &
@@ -47,7 +47,7 @@ vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-pcmanfm.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-pulseaudio.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-ranger.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-scripts.git &
-vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-ssh.git &
+vcsh clone https://bonegames@github.com/bonegames/dotfiles-ssh.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-xdg.git &
 
 # Wait for dotfiles cloning to finish
