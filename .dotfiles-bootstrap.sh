@@ -46,7 +46,7 @@ vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-ncmpcpp.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-pcmanfm.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-pulseaudio.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-ranger.git &
-vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-scripts.git &
+vcsh clone https://bonegames@github.com/bonegames/dotfiles-scripts.git &
 vcsh clone https://bonegames@github.com/bonegames/dotfiles-ssh.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-xdg.git &
 
