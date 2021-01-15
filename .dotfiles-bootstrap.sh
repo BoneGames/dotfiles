@@ -36,13 +36,13 @@ vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-code.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-crt.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-dnsmasq.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-dunst.git &
-vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-git.git &
+vcsh clone https://bonegames@github.com/bonegames/dotfiles-git.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-gtk.git &
-vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-i3.git &
+vcsh clone https://bonegames@github.com/bonegames/dotfiles-i3.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-jobber.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-mime.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-mpd.git &
-vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-musikcube.git &
+# vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-musikcube.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-ncmpcpp.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-pcmanfm.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-picom.git &
