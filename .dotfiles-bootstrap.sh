@@ -6,6 +6,9 @@ git clone --depth 1 https://github.com/tmux-plugins/tpm $HOME/.tmux/plugins/tpm 
 mkdir -p $HOME/.local/bin >/dev/null 2>&1
 curl -fsSL git.io/antigen > $HOME/.local/bin/antigen.zsh &
 
+# Fix bug where ~/.zshenv exists already
+rm ~/.zshenv
+
 # Wait for plugin managers to install
 wait
 
