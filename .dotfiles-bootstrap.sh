@@ -14,7 +14,7 @@ wait
 
 # Clone large dotfiles and those that require post install
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-tmux.git &
-vcsh clone https://bonegames@github.com/sabrehagen/bonegames-zsh.git &
+vcsh clone https://bonegames@github.com/bonegames/-zsh.git &
 
 # Wait for dotfiles cloning to finish
 wait
