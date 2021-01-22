@@ -31,7 +31,7 @@ wait
 # Clone static dotfiles
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-alacritty.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-alsa.git &
-vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-autorandr.git &
+# vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-autorandr.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-code.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-crt.git &
 vcsh clone https://sabrehagen@github.com/sabrehagen/dotfiles-dnsmasq.git &
